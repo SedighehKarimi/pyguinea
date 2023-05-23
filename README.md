@@ -1,0 +1,2 @@
+# pyguinea
+Python module
